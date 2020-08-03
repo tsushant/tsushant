@@ -4,9 +4,14 @@
 </p>
 <p align="center">&nbsp;</p>
 
-# Hello 👋, I'm Sushant!
+# Hello 👋, World!
+Hi! I'm **Sushant Shah**, a **full-stack web developer** from Kathmandu, Nepal.
 
-### 💻 Languages and tools
+<p align="center">
+    #symfony #laravel #vue
+</p>
+
+## Languages and tools
 
 <p>
   <a href="https://github.com/tsushant">
@@ -31,7 +36,7 @@
 </p>
 
 
-### 📫 Where to find me
+## Lets Connect!
 
 <a href="https://www.linkedin.com/in/tsushant/" target="_blank"><img src="https://raw.githubusercontent.com/tsushant/tsushant/master/in.png" alt="LinkedIn" width="30"></a>
 <a href="https://github.com/tsushant" target="_blank"><img src="https://raw.githubusercontent.com/tsushant/tsushant/master/git.png" alt="GitHub" width="30"></a>
