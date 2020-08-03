@@ -5,11 +5,10 @@
 <p align="center">&nbsp;</p>
 
 # Hello 👋, World!
-Hi! I'm **Sushant Shah**, a **full-stack web developer** from Kathmandu, Nepal.
 
-<p align="center">
-    #symfony #laravel #vue
-</p>
+I'm **Sushant Shah**, a **full-stack web developer** from Kathmandu, Nepal.
+
+    #symfony, #laravel, #vue
 
 ## Languages and tools
 
