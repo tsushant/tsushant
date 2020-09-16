@@ -1,6 +1,5 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/tsushant/tsushant/master/about-cover.png" />
-<b>Glitch in the matrix</b>
 </p>
 <p align="center">&nbsp;</p>
 
